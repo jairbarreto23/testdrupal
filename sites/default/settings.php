@@ -779,10 +779,10 @@ $settings['entity_update_backup'] = TRUE;
 # }
 $databases['default']['default'] = array (
   'database' => 'sitioweb',
-  'username' => 'us_sitioweb',
-  'password' => 'Bextsa2018*',
+  'username' => 'carlosb@databasemysql',
+  'password' => 'Mariana2015',
   'prefix' => '',
-  'host' => 'localhost',
+  'host' => 'databasemysql.mysql.database.azure.com',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
