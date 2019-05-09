@@ -1,4 +1,4 @@
-<?php
+i<?php
 
 // @codingStandardsIgnoreFile
 
@@ -779,10 +779,10 @@ $settings['entity_update_backup'] = TRUE;
 # }
 $databases['default']['default'] = array (
   'database' => 'sitioweb',
-  'username' => 'carlosb@databasemysql',
-  'password' => 'Mariana2015',
+  'username' => 'us_sitioweb',
+  'password' => 'Bextsa2018*',
   'prefix' => '',
-  'host' => 'databasemysql.mysql.database.azure.com',
+  'host' => 'localhost',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
