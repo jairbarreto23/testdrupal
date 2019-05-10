@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 .affix {
@@ -14,3 +15,21 @@
 .carousel {
   min-height: 45px; // Primary added to prevent invisible Glaezd Builder controls but also important to prevent scattered carousel controls
 }
+=======
+@charset "UTF-8";
+
+.affix {
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+
+.navbar {
+  z-index: 6;
+}
+
+.carousel {
+  min-height: 45px; // Primary added to prevent invisible Glaezd Builder controls but also important to prevent scattered carousel controls
+}
+>>>>>>> agreggue un modulo de prueba

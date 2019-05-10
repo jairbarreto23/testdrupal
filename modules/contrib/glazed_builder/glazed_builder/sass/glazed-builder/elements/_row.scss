@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 .az-row--xs.az-row--equal-height {
@@ -8,4 +9,16 @@
   @media (min-width: 768px) {
     display: flex;
   }
+=======
+@charset "UTF-8";
+
+.az-row--xs.az-row--equal-height {
+  display: flex;
+}
+
+.az-row--sm.az-row--equal-height {
+  @media (min-width: 768px) {
+    display: flex;
+  }
+>>>>>>> agreggue un modulo de prueba
 }

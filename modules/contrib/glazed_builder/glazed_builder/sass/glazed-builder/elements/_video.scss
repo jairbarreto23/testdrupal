@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 
@@ -13,4 +14,21 @@
   padding: 0.4em 0.75em;
   cursor: pointer;
   border-radius: 10px;
+=======
+@charset "UTF-8";
+
+
+// Video Element
+.az-video .az-video-icon {
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  top: 50%;
+  margin-left: -1.2em;
+  margin-top: -0.85em;
+  color: white;
+  padding: 0.4em 0.75em;
+  cursor: pointer;
+  border-radius: 10px;
+>>>>>>> agreggue un modulo de prueba
 }

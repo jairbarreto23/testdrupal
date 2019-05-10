@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "boss": true,
     "curly": true,
@@ -14,3 +15,21 @@
     "unused": true,
     "browser": true
 }
+=======
+{
+    "boss": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "es3": true,
+    "expr": true,
+    "immed": true,
+    "noarg": true,
+    "onevar": true,
+    "quotmark": "single",
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "browser": true
+}
+>>>>>>> agreggue un modulo de prueba

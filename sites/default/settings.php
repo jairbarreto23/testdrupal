@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 i<?php
+=======
+<?php
+>>>>>>> agreggue un modulo de prueba
 
 // @codingStandardsIgnoreFile
 
@@ -779,10 +783,17 @@ $settings['entity_update_backup'] = TRUE;
 # }
 $databases['default']['default'] = array (
   'database' => 'sitioweb',
+<<<<<<< HEAD
   'username' => 'us_sitioweb',
   'password' => 'Bextsa2018*',
   'prefix' => '',
   'host' => 'localhost',
+=======
+  'username' => 'carlosb@databasemysql',
+  'password' => 'Mariana2015',
+  'prefix' => '',
+  'host' => 'databasemysql.mysql.database.azure.com',
+>>>>>>> agreggue un modulo de prueba
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
