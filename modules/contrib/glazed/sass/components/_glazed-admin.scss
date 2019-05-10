@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Admin fixes for Drupal using Bootstrap
 
 body.admin-menu {
@@ -10,17 +9,4 @@ body.admin-menu {
 
 body.toolbar-fixed .toolbar-oriented .toolbar-bar {
   z-index: 4500 !important;
-=======
-// Admin fixes for Drupal using Bootstrap
-
-body.admin-menu {
-  margin-top: 28px !important;
-  .navbar-fixed-top {
-    top: 30px;
-  }
-}
-
-body.toolbar-fixed .toolbar-oriented .toolbar-bar {
-  z-index: 4500 !important;
->>>>>>> agreggue un modulo de prueba
 }

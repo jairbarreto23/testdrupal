@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 
 body {
@@ -12,19 +11,4 @@ body {
     height: 100px;
     transform: skew(-20deg);
   }
-=======
-@charset "UTF-8";
-
-body {
-  .stpe-separator--slant-left {
-    width: 150px;
-    height: 100px;
-    transform: skew(20deg);
-  }
-  .stpe-separator--slant-right {
-    width: 150px;
-    height: 100px;
-    transform: skew(-20deg);
-  }
->>>>>>> agreggue un modulo de prueba
 }

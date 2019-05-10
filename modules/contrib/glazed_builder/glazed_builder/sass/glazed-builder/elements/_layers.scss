@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 
 .az-layers {
@@ -12,19 +11,4 @@
       box-sizing: content-box !important;
     }
   }
-=======
-@charset "UTF-8";
-
-.az-layers {
-  display: inline-block;
-  width: 100%;
-  > .az-ctnr {
-    position: relative;
-    margin: auto;
-    > .az-element {
-      position: absolute !important;
-      box-sizing: content-box !important;
-    }
-  }
->>>>>>> agreggue un modulo de prueba
 }
